@@ -1,0 +1,11 @@
+{
+  "title": "The Basics - Networking",
+  "description": "Your app fetched this from a remote endpoint!",
+  "movies": [
+    { "id": "1", "title": "Paijo", "releaseYear": "1977" },
+    { "id": "2", "title": "Tidur", "releaseYear": "1985" },
+    { "id": "3", "title": "Di", "releaseYear": "1999" },
+    { "id": "4", "title": "Lapangan", "releaseYear": "2010" },
+    { "id": "5", "title": "ZZZ", "releaseYear": "2014" }
+  ]
+}
